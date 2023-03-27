@@ -7,7 +7,7 @@ I front-end developer, but you can call me Gus.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tonichiga&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tonichiga&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tonichiga&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yandexis&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tonichiga&icon=0&color=9)](https://visitcount.itsvg.in)
