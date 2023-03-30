@@ -7,7 +7,7 @@ FullStack developer.
 # 🔢📊 Numbers:
 ![](https://github-readme-stats.vercel.app/api?username=yandexis&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yandexis&theme=chartreuse-dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yandexis)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yandexis&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=yandexis&icon=0&color=9)](https://visitcount.itsvg.in)
 
